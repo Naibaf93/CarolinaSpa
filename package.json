@@ -1,12 +1,12 @@
 {
   "name": "cafeteria",
   "version": "1.0.0",
-  "description": "Delivery App, BEM, SASS, Gulp, CSS Grid",
+  "description": "Carolina spa, BEM, SASS, Gulp, CSS Grid",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Juan De la torre @codigoconjuan",
+  "author": "Fabian Huertas Naibaf93",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.3.1",
